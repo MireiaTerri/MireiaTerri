@@ -18,23 +18,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="50"/>
-</p>   
-
-**Frameworks & Libraries:**  
-- Node.js  
-- Express  
-- React
-
-**Databases:**  
-- MySQL  
-- MongoDB  
-
-**Tools & Other:**  
-- Git, GitHub
-- Docker 
-- Linux  
-- VSCode  
-- Problem-solving with algorithms and data structures
+</p> 
 
 ---
 
