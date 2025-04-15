@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Hi, I'm Mireia!
+# 👋 Hi, I'm Mireia!
 
 🎓 I'm a **Computer Engineering** student with a strong passion for **full-stack development**.  
 💻 I’m currently diving deep into building applications and improving my coding skills, focusing on creating clean and efficient code.  
@@ -26,3 +26,15 @@
 
 - Email: [mtvilardell@gmail.com](mailto:mtvilardell@gmail.com)  
 - LinkedIn: [Mireia Terricabras Vilardell](https://www.linkedin.com/in/mireiaterricabras/)
+
+  <p align="left">
+  <a href="https://github.com/MireiaTerri" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:mtvilardell@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mireiaterricabras/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
