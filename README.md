@@ -24,10 +24,7 @@
 
 ## 📫 How to reach me:
 
-- Email: [mtvilardell@gmail.com](mailto:mtvilardell@gmail.com)  
-- LinkedIn: [Mireia Terricabras Vilardell](https://www.linkedin.com/in/mireiaterricabras/)
-
-  <p align="left">
+  <p align="center">
   <a href="https://github.com/MireiaTerri" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
