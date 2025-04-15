@@ -25,4 +25,4 @@
 ## 📫 How to reach me:
 
 - Email: [mtvilardell@gmail.com](mailto:mtvilardell@gmail.com)  
-- LinkedIn: [mireiaterricabras](https://www.linkedin.com/in/tu-link-aqui)
+- LinkedIn: [Mireia Terricabras Vilardell](https://www.linkedin.com/in/mireiaterricabras/)
