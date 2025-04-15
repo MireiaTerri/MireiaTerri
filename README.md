@@ -25,13 +25,13 @@
 ## 📫 How to reach me:
 
 <p align="center">
-  <a href="https://github.com/MireiaTerri" target="blank">
+  <a href="https://github.com/MireiaTerri" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:mtvilardell@gmail.com" target="blank">
+  <a href="mailto:mtvilardell@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/mireiaterricabras/" target="blank">
+  <a href="https://www.linkedin.com/in/mireiaterricabras/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
